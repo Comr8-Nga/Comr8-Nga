@@ -13,11 +13,11 @@ Solana (testnet) - https://www.validators.app/validators/testnet/BEFD2nMciBXpk43
 Solana (mainnet) - https://www.validators.app/validators/mainnet/3Ng7kTM5vzE3tYa97ENNjWkTj58bf1jsGbuY5AGGXhd5
 
 
-Github: https://github.com/Comr8-Nga
-Discord: Comr8_Nga#1319
-Telegram: https://t.me/Comr8_Nga
-Twitter: https://twitter.com/GarifullinDenis
-Medium: https://laltral14.medium.com/
+Github: https://github.com/Comr8-Nga  
+Discord: Comr8_Nga#1319  
+Telegram: https://t.me/Comr8_Nga  
+Twitter: https://twitter.com/GarifullinDenis  
+Medium: https://laltral14.medium.com/  
 
 <!---
 Comr8-Nga/Comr8-Nga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
